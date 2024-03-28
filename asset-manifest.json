@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/spell-checker/static/js/main.a44e2ef5.js",
+    "main.js": "/spell-checker/static/js/main.6e7240ff.js",
     "index.html": "/spell-checker/index.html",
-    "main.a44e2ef5.js.map": "/spell-checker/static/js/main.a44e2ef5.js.map"
+    "main.6e7240ff.js.map": "/spell-checker/static/js/main.6e7240ff.js.map"
   },
   "entrypoints": [
-    "static/js/main.a44e2ef5.js"
+    "static/js/main.6e7240ff.js"
   ]
 }
