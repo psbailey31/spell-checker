@@ -1,5 +1,7 @@
 import AWS from 'aws-sdk';
 
+
+
 // Initialize AWS DynamoDB DocumentClient
 const docClient = new AWS.DynamoDB.DocumentClient();
 
