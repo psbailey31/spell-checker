@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spell-checker/static/css/main.99aad0ef.css",
-    "main.js": "/spell-checker/static/js/main.1911cf78.js",
+    "main.js": "/spell-checker/static/js/main.18b8d68d.js",
     "index.html": "/spell-checker/index.html",
     "main.99aad0ef.css.map": "/spell-checker/static/css/main.99aad0ef.css.map",
-    "main.1911cf78.js.map": "/spell-checker/static/js/main.1911cf78.js.map"
+    "main.18b8d68d.js.map": "/spell-checker/static/js/main.18b8d68d.js.map"
   },
   "entrypoints": [
     "static/css/main.99aad0ef.css",
-    "static/js/main.1911cf78.js"
+    "static/js/main.18b8d68d.js"
   ]
 }
